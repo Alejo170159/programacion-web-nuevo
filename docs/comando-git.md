@@ -10,7 +10,7 @@ git init
 
 
 Referencia del repositorio local con el respositorii remmoto (GITHUB)
-git remote add origin https://github.com/Evelyn0808/back_nest_angular_EA
+git remote add origin https://github.com/Alejo170159/ProgramacionWeb..git
 
 # Validar Referencia
 ```
